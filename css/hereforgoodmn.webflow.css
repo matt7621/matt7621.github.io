@@ -9,7 +9,7 @@
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-image: url('../images/j6aoemnzxms-michael-d-beckwith-light-blur.jpg');
+  background-image: url('../images/cafe-blur-ramsey-elementary.jpg');
   background-position: 34% 50%;
   background-size: cover;
 }
@@ -121,7 +121,6 @@
 }
 
 .donate-button-small.donate-large {
-  width: 17vw;
   height: 4vw;
   margin-top: 0.6vw;
   margin-right: 0px;
@@ -133,8 +132,10 @@
   -ms-flex: 0 auto;
   flex: 0 auto;
   background-color: #2c89ff;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 1.3vw;
   line-height: 1.4vw;
+  font-weight: 300;
 }
 
 .slant {
@@ -212,8 +213,8 @@
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/avioqzzikvs-luca-zanon-2.jpg');
-  background-position: 50% 100%;
+  background-image: url('../images/handshake-sunday-morning-ramsey-mn-connections-church.jpg');
+  background-position: 50% 50%;
   background-size: cover;
   cursor: pointer;
 }
@@ -241,31 +242,33 @@
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/m5p0c6abwds-joshua-sortino-1.jpg');
-  background-position: 100% 50%;
+  background-image: url('../images/connections-church-jim-ramsey-mn.jpg');
+  background-position: 50% 50%;
   background-size: cover;
   cursor: pointer;
 }
 
 .regular-update.update-2 {
-  background-image: url('../images/bbhb7bbim_q-les-anderson-2.jpg');
+  background-image: url('../images/chest-of-joash-connections-church.jpg');
   background-position: 50% 50%;
 }
 
 .regular-update.update-3 {
-  background-image: url('../images/yngq830ufb4-tim-de-groot-2.jpg');
+  background-image: url('../images/ray-fritz-preaching-connections-church.jpg');
 }
 
 .regular-update.update-4 {
-  background-image: url('../images/yfkkfpvugxc-jon-flobrant-2.jpg');
+  background-image: url('../images/kids-connection-ramsey-elementary-school-mn.jpg');
+  background-position: 50% 0px;
 }
 
 .regular-update.update-5 {
-  background-image: url('../images/oldm7mnhdic-stefan-kunze-2.jpg');
+  background-image: url('../images/welcome-table-connections-church-ramsey-mn.jpg');
 }
 
 .regular-update.update-6 {
-  background-image: url('../images/x-kv-kv2lc-martin-knize-2.jpg');
+  background-image: url('../images/ray-fritz-preaching-gesturing.jpg');
+  background-position: 50% 100%;
 }
 
 .gradient {
@@ -354,7 +357,7 @@
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background-image: url('../images/j6aoemnzxms-michael-d-beckwith-dark.jpg');
+  background-image: url('../images/church-body-ray-fritz.jpg');
   background-position: 50% 50%;
   background-size: cover;
   opacity: 1;
@@ -442,14 +445,13 @@
   top: 0px;
   right: 0px;
   bottom: 0px;
-  width: 102px;
   height: 30px;
   margin-top: -2px;
   margin-right: 30px;
   margin-left: 30px;
-  padding-right: 13px;
+  padding-right: 22px;
   padding-bottom: 22px;
-  padding-left: 13px;
+  padding-left: 22px;
   border: 2px solid #2c89ff;
   border-radius: 7px;
   background-color: transparent;
@@ -543,6 +545,8 @@
   padding-right: 35px;
   padding-left: 35px;
   background-color: #2c89ff;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 300;
 }
 
 .donate-headline {
@@ -606,14 +610,15 @@
   display: block;
   margin-top: 30px;
   margin-bottom: 30px;
-  padding-right: 35px;
-  padding-left: 35px;
+  padding: 10px 35px;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
   border: 2px solid #2c89ff;
   border-radius: 7px;
   background-color: transparent;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 300;
 }
 
 .load-more-testimonials.hide-testimonials {
@@ -626,7 +631,11 @@
   margin-right: auto;
   margin-bottom: 100px;
   margin-left: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Fira Sans', sans-serif;
   color: #2c89ff;
+  font-weight: 300;
   text-align: center;
 }
 
@@ -638,7 +647,9 @@
   border: 2px solid #2c89ff;
   border-radius: 7px;
   background-color: transparent;
+  font-family: 'Fira Sans', sans-serif;
   color: #fff;
+  font-weight: 300;
 }
 
 .hide-testimonials {
@@ -714,7 +725,9 @@
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
+  font-family: 'Fira Sans', sans-serif;
   color: #2c89ff;
+  font-weight: 300;
   text-align: center;
   text-decoration: none;
 }
@@ -822,7 +835,7 @@
 }
 
 .contact-section {
-  background-image: url('../images/hills.jpg');
+  background-image: url('../images/ramsey-mn-elementary-school-connections-church.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -835,6 +848,8 @@
 
 .field {
   margin-bottom: 15px;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 300;
 }
 
 .success-message {
@@ -920,13 +935,6 @@ html.w-mod-js *[data-ix="scroll-reveal"] {
   transform: translate(0px, 60px);
 }
 
-html.w-mod-js *[data-ix="scroll-reveal-2"] {
-  opacity: 0;
-  -webkit-transform: translate(0px, 60px);
-  -ms-transform: translate(0px, 60px);
-  transform: translate(0px, 60px);
-}
-
 html.w-mod-js *[data-ix="scroll-reveal-3"] {
   opacity: 0;
   -webkit-transform: translate(0px, 60px);
@@ -951,7 +959,6 @@ html.w-mod-js *[data-ix="scroll-reveal-3"] {
     font-size: 14px;
   }
   .donate-button-small.donate-large {
-    width: 24.5vw;
     height: 6vw;
     padding-top: 1.8vw;
     font-size: 2.3vw;
@@ -1047,7 +1054,6 @@ html.w-mod-js *[data-ix="scroll-reveal-3"] {
     float: none;
   }
   .donate-button-small.donate-large {
-    width: 219px;
     height: 50px;
     padding: 16px 30px;
     font-size: 20px;
@@ -1165,7 +1171,7 @@ html.w-mod-js *[data-ix="scroll-reveal-3"] {
     margin-top: 15px;
   }
   .donate-button-small.donate-large {
-    margin-top: 40px;
+    margin-top: 10px;
   }
   .intro-div {
     height: 600px;
